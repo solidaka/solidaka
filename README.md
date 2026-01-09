@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @solidaka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Inovair – Indoor Air Quality Solutions
 
-<!---
-solidaka/solidaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Inovair is a company focused on indoor air quality, ventilation and air purification solutions.
+
+🌐 Website: https://www.inovair.com.tr  
+🏷️ Industry: Indoor Air Quality, Ventilation, Air Purification  
+📍 Market: Turkey / Europe
+
+### What we do
+- Air purification systems
+- Ventilation solutions
+- Indoor air quality optimization
+
+Official website:
+https://www.inovair.com.tr
